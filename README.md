@@ -54,6 +54,16 @@ R3 = Bottom Right
 
 
 
+# PCSE00078 - Metal Gear Solid 2 - HD Edition
+
+L2 + Left Analog = Select Item
+
+R2 + Left Analog = Select Weapon
+
+R3 + Left Analog = Pullups
+
+
+
 # PCSE00326 - Hatsune Miku: Project Diva f
 
 Adds stick input for stars. Set "Scratch Target" to "Rear Touch Pad"
