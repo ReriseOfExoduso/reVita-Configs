@@ -54,11 +54,23 @@ R3 = Bottom Right
 
 
 
-# PCSE00078 - Metal Gear Solid 2 - HD Edition
+# PCSE00078 - Metal Gear Solid 2: HD Edition
 
 L2 + Left Analog = Select Item
 
 R2 + Left Analog = Select Weapon
+
+R3 + Left Analog = Pullups
+
+
+
+# PCSE00079 - Metal Gear Solid 3: HD Edition
+
+L2 + Left Analog = Select Item
+
+R2 + Left Analog = Select Weapon
+
+L3 + Left Analog = Interrogate/Slit Throat
 
 R3 + Left Analog = Pullups
 
