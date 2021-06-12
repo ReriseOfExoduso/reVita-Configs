@@ -76,6 +76,16 @@ R3 + Left Analog = Pullups
 
 
 
+# PCSE00317 - Terraria
+
+L1 - Move Inventory Left
+
+R1 - Move Inventory Right
+
+R3 - Swap Cursor Modes
+
+
+
 # PCSE00326 - Hatsune Miku: Project Diva f
 
 Adds stick input for stars. Set "Scratch Target" to "Rear Touch Pad"
