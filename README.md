@@ -76,6 +76,20 @@ R3 + Left Analog = Pullups
 
 
 
+# PCSE00097 - Call of Duty: Black Ops: Declassified
+
+Uses Console controls
+
+L1 - Tactical Grenade
+
+R1 - Lethal Grenade
+
+L3 - Sprint/Hold Breath
+
+R3 - Knife
+
+
+
 # PCSE00317 - Terraria
 
 L1 - Move Inventory Left
