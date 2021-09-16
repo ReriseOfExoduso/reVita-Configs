@@ -105,3 +105,11 @@ R3 - Swap Cursor Modes
 Adds stick input for stars. Set "Scratch Target" to "Rear Touch Pad"
 
 This is not 1:1 with official titles. 
+
+
+
+# PCSE01235 - Stardew Valley
+
+Uses PS4 controls (minus Journal)
+
+https://stardewvalleywiki.com/Controls#PS4_Controller
